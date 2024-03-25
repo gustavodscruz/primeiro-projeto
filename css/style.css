@@ -5,3 +5,7 @@
     background-color: rgb(174, 35, 179) !important;
     display: inline;
 }
+ul li{
+    display: inline;
+    margin: 5%;
+}
