@@ -13,3 +13,7 @@ ul li{
 .cabecalho{
     background-color: rgb(30, 30, 155);
 }
+
+h1, h2{
+    font-family: sans-serif;
+}
