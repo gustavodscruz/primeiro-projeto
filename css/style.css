@@ -25,3 +25,7 @@ nav li a{
 .container{
     padding: 20px;
 }
+
+#conteudo p{
+    line-height: 1.5em;
+}
